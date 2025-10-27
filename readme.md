@@ -4,9 +4,9 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 
 ## Tecnologias usadas
 
--Git
--GitHub
--Markdown
+- Git
+- GitHub
+- Markdown
 
 ### Estrutura do projeto
 
